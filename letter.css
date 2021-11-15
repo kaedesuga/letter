@@ -1,8 +1,8 @@
 
-
 *{
-text-align:center;
 padding-top:50px;
+font-family: 'Yomogi', cursive;
+font-family: 'Zen Kurenaido', sans-serif;
 }
 
 
@@ -12,4 +12,16 @@ font-size:30px;
 
 .main{
 font-size:25px;
+padding:0px 100px;
+line-height:90px;
+
+
+
+}
+
+.main p{
+background: linear-gradient(transparent 90%, #d3d3d3 90%);
+  display: inline;
+  font-weight: bold; 
+  padding:  1px 1px;
 }
