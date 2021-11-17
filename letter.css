@@ -16,7 +16,7 @@ text-align:center;
 font-size:27px;
 padding:0px 100px;
 line-height:90px;
-padding:0px 100px 170px 10ppx;
+padding:0px 100px 80px 100px;
 
 
 }
@@ -26,4 +26,9 @@ background: linear-gradient(transparent 97%, #d3d3d3 97%);
   display: inline;
   font-weight: bold; 
   padding:  1px 1px;
+}
+
+.from{
+padding:0px 0px 150px 0px;
+text-align:center;
 }
